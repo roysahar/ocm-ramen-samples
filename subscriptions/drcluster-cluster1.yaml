@@ -5,3 +5,4 @@ metadata:
   name: ramen-2
 spec:
   s3ProfileName: minio-on-ramen-2
+  region: tlv
